@@ -1,4 +1,4 @@
-# Falling Blocks — a pretext demo
+# Tetris-Pretext — a pretext demo
 
 Tetris-style blocks fall through a page of text. As each piece drops, the words
 step aside in real time. When a row fills and clears, the text flows back in.
