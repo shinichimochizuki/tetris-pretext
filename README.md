@@ -3,7 +3,7 @@
 Tetris-style blocks fall through a page of text. As each piece drops, the words
 step aside in real time. When a row fills and clears, the text flows back in.
 
-**[Live demo](https://shinichi.github.io/tetris-text)** <!-- update URL -->
+**[Live demo](https://shinichimochizuki.github.io/tetris-pretext/)** <!-- update URL -->
 
 ---
 
